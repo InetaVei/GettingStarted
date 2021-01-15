@@ -1,9 +1,9 @@
-## My first steps with JAVA
+## Hello Java!
 
-This project is for educational purposes.
+My first steps with Java. This project is for educational purposes.
 
 #### Project features
-- theory and practises on java coding
+- theory and practises on Java coding
 
 #### Authors
 [Ineta](https://github.com/InetaVei)
