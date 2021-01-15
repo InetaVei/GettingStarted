@@ -1,4 +1,4 @@
-## First steps with JAVA
+## My first steps with JAVA
 
 This project is for educational purposes.
 
