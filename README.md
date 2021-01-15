@@ -1,9 +1,9 @@
-### First steps with JAVA
+## First steps with JAVA
 
 This project is for educational purposes.
 
-# Project features
+### Project features
 - theory and practises on java coding
 
-# Authors
+### Authors
 [Ineta](https://github.com/InetaVei)
