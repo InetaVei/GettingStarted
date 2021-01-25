@@ -1,3 +1,5 @@
+package paskaita03;
+
 public class Trikampiai {
     public static void main(String[] args) {
 
