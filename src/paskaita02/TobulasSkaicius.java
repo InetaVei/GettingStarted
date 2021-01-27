@@ -1,4 +1,4 @@
-/*
+package paskaita02;/*
 UZDAVINYS
 Tobuluoju skaičiumi vadinamas natūralusis skaičius, lygus visų savo daliklių,
 mažesnių už save patį, sumai.

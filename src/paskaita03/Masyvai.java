@@ -1,3 +1,5 @@
+package paskaita03;
+
 public class Masyvai {
 
     public static void main(String[] args) {

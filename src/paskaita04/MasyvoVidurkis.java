@@ -1,4 +1,4 @@
-/*
+package paskaita04;/*
 UZDAVINYS
 Turime du masyvus int[] a = {5, 6, 10, 15, 8, 4} ir int[] b = {8, 5, 3}. Raskite
 kiekvieno masyvo skaičių vidurkį ir atspausdinkite jų skirtumą. Rezultatas turi

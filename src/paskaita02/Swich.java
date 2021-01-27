@@ -1,3 +1,5 @@
+package paskaita02;
+
 import javax.sound.midi.Soundbank;
 
 public class Swich {
