@@ -1,10 +1,12 @@
+package paskaita05;
+
 import java.time.LocalDate;
 
 public class P05ZmogusIntro {
 
     public static void main(String[] args) {
 
-        //Zmogus
+        //paskaita05.Zmogus
         //   int id
         //   String firstName;
         //   String lastName;
@@ -18,7 +20,7 @@ public class P05ZmogusIntro {
         Zmogus[] zmones = {null, null, null};    // zmones yra masyvas
         System.out.println(zmones.length);
 
-        Zmogus z1 = new Zmogus();    // kintamojo tipas - Zmogus.  new Zmogus () nepamirsti skliaustu - objekto konstruktorius.
+        Zmogus z1 = new Zmogus();    // kintamojo tipas - paskaita05.Zmogus.  new paskaita05.Zmogus () nepamirsti skliaustu - objekto konstruktorius.
         z1.id = 1;                    // mes cia sukurem zmogu ir priskyrem jam reiksmes
         z1.firstName = "Jonas";       // reiksme
         z1.lastName = "Jonaitis";      // reiksme
@@ -32,7 +34,7 @@ public class P05ZmogusIntro {
         z2.birthday = LocalDate.of(1999, 2, 15);
         zmones[1] = z2;   // sukurta zmogu irasom i masyvo antra vieta
 
-        for (Zmogus z : zmones) {          // paaiskinimas (Zmogus is masyvo zmones)  pateikiamas per cikla
+        for (Zmogus z : zmones) {          // paaiskinimas (paskaita05.Zmogus is masyvo zmones)  pateikiamas per cikla
             if (z != null) {       // patikslinimas del ciklo sukimosi, "jeigu z ne null tada atlikt pirma sout. Turi buti irasytas boolean tipo klausimas
                 System.out.println(z.firstName + " " + z.lastName);
             } else {   // "kitu atveju atspausdink tai:
