@@ -1,4 +1,4 @@
-package paskaita06;
+package paskaita06.MokyklosUzdavinysPaveldemumas;
 
     class Bendri {
         private String vardas;  // private / public / protected / ... /

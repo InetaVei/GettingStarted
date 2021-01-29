@@ -1,4 +1,4 @@
-package paskaita06;
+package paskaita06.MokyklosUzdavinysPaveldemumas;
 
 public class Adresas {
     private String miestas;

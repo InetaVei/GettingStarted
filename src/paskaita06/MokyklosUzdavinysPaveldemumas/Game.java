@@ -1,4 +1,6 @@
-package paskaita06;
+package paskaita06.MokyklosUzdavinysPaveldemumas;
+
+import paskaita06.Zaidimas.Player;
 
 public class Game {
 
